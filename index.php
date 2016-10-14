@@ -13,6 +13,12 @@
     <img src="images/gom_icon.png" alt="git">
 </div>
 
+<div class="colorSpan">
+    要发布啦<br>
+    增加icon!
+    <img src="images/gom_icon.png" alt="git">
+</div>
+
 <!--这次增加了两张图,在增加两张图的分支上-->
 <img src="images/gom_icon.png" alt="git">
 this is my email: ipuxin@aliyun.com
