@@ -15,7 +15,7 @@
 
 <!--这次增加了两张图,在增加两张图的分支上-->
 <img src="images/gom_icon.png" alt="git">
-
+this is my email: ipuxin@qq.com
 <br>
 this is update online!
 this two
