@@ -5,6 +5,17 @@ img{
     border: 1px solid #CCCCCC;
 }
 .colorSpan{
+    cursor: pointer;
     font-size:22px;
     color: yellowgreen;
+    font-weight:bold;
+    border:1px solid #cc1d1d;
+    transition: all 0.3s;
+
+}
+.colorSpan:hover{
+    font-size:18px;
+    color: bisque;
+    font-weight:normal;
+    border:1px solid #999;
 }
