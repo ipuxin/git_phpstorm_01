@@ -8,8 +8,7 @@
 ?>
 <link rel="stylesheet" href="css/main.css">
 <div class="colorSpan">
-    This is doudou! 我家的 引入新成员后<br>
-    增加icon!
+    This is Post! 引入新成员后<br>
     <img src="images/gom_icon.png" alt="git">
 </div>
 
@@ -17,5 +16,4 @@
 <img src="images/gom_icon.png" alt="git">
 this is my email: ipuxin@aliyun.com
 <br>
-this is update online!
-this two
+
