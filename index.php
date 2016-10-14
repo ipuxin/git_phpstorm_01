@@ -6,6 +6,7 @@
  * Time: 7:44
  */
 ?>
+<link rel="stylesheet" href="css/main.css">
 this is 我的 豆豆<br>
 <img src="images/gom_icon.png" alt="git">
 <!--这次增加了两张图,在增加两张图的分支上-->
