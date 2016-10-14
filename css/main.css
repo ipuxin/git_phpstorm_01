@@ -1,21 +1,32 @@
 /*
     this is main.css
 */
-img{
+img {
     border: 1px solid #CCCCCC;
 }
-.colorSpan{
-    cursor: pointer;
-    font-size:22px;
-    color: yellowgreen;
-    font-weight:bold;
-    border:1px solid #cc1d1d;
-    transition: all 0.3s;
 
+.colorSpan {
+    cursor: pointer;
+    font-size: 22px;
+    color: yellowgreen;
+    font-weight: bold;
+    border: 1px solid #cc1d1d;
+    transition: all 0.3s;
+    height: 80px;
 }
-.colorSpan:hover{
-    font-size:18px;
+
+.colorSpan img {
+    width: 50px;
+    float: left;
+}
+
+.colorSpan span {
+    float: left;
+}
+
+.colorSpan:hover {
+    font-size: 18px;
     color: bisque;
-    font-weight:normal;
-    border:1px solid #999;
+    font-weight: normal;
+    border: 1px solid #999;
 }
