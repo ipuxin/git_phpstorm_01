@@ -12,3 +12,6 @@ this is 我的 豆豆<br>
 <!--这次增加了两张图,在增加两张图的分支上-->
 <img src="images/gom_icon.png" alt="git">
 <img src="images/gom_icon.png" alt="git">
+
+<br>
+this is update online!
